@@ -1,0 +1,24 @@
+{
+  "name": "es6-generator",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "customCo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mudassiribrahim/ES6-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mudassiribrahim/ES6-Generator/issues"
+  },
+  "homepage": "https://github.com/mudassiribrahim/ES6-Generator#readme",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "node-fetch": "^3.3.2"
+  }
+}
